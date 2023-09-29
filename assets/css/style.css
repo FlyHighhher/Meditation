@@ -17,6 +17,7 @@ body {
     flex-direction: column;
     /* Generic project styles */
     color: #FFFFFF;
+    font-family: 'Nunito', sans-serif;
 }
 
 /* Header */
@@ -37,4 +38,5 @@ main {
 footer {
     background-color: #F5F5F5;
     color: #A9A9A9;
+    font-family: 'Crimson Text', serif;
 }
