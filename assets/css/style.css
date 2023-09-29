@@ -6,17 +6,31 @@
     box-sizing: border-box;
 }
 
+/* General styles */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* Generic project styles */
+    color: #FFFFFF;
+}
+
 /* Header */
 header {
     background-color: #b0e0e6;
+    color: #FFFFFF;
 }
 
 /* Main content */
 main {
     background-color: #C1D9D0;
+    /* Make main element to take up any surplus space to push footer down */
+    flex: 1 0 auto;
+    color: #333333;
 }
 
 /* Footer */
 footer {
     background-color: #F5F5F5;
+    color: #A9A9A9;
 }
