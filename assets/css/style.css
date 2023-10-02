@@ -24,7 +24,7 @@ body {
 header {
     background-color: #b0e0e6;
     color: #48A4B8;
-    padding: 0 1rem;
+    padding: 0 0.5rem;
     position: fixed;
     z-index: 99;
     width: 100%;
@@ -101,4 +101,27 @@ footer {
     background-color: #F5F5F5;
     color: #A9A9A9;
     font-family: 'Crimson Text', serif;
+}
+
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+    /* Header */
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding: 1rem;
+    }
+    #menu {
+        display: flex;
+    }
+
+    menu > li {
+        padding-left: 1rem; 
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
 }
