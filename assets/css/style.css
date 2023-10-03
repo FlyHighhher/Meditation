@@ -42,7 +42,7 @@ header a {
 
 h1 {
     font-family: 'Nunito', sans-serif;
-    text-transform: uppercase;
+    text-transform: initial;
     letter-spacing: 1px;
     color: #006699;
 }
@@ -140,7 +140,7 @@ footer {
     }
 
     #logo {
-        font-size: 250%;
+        font-size: 230%;
         line-height: 75px;
         margin: 0 0.5rem;
     }
