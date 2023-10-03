@@ -23,7 +23,7 @@ body {
 /* Header */
 header {
     background-color: #b0e0e6;
-    color: #48A4B8;
+    color: #006699;
     padding: 0 0.5rem;
     position: fixed;
     z-index: 99;
@@ -93,7 +93,7 @@ main {
     /* Make main element to take up any surplus space to push footer down */
     flex: 1 0 auto;
     color: #333333;
-    margin-top: 47px;
+    margin-top: auto;
 }
 
 /* Footer styles */
@@ -101,6 +101,7 @@ footer {
     background-color: #F5F5F5;
     color: #4c5760;
     font-family: 'Crimson Text', serif;
+    text-align: center;
 }
 
 .back-to-top {
@@ -119,12 +120,14 @@ footer {
 @media screen and (min-width: 768px) {
 
     /* Header */
+
     nav {
         display: block;
         position: relative;
         box-shadow: none;
         width: fit-content;
         padding-right: 1rem;
+        margin-top:auto;
     }
 
     #menu {
