@@ -30,14 +30,15 @@ header {
     width: 100%;
     box-shadow: 0 2px 2px rgba(100, 149, 237, 0.3);
     display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 header a {
     text-decoration: none;
     color: inherit;
+    text-align: center;
 }
 
 h1 {
@@ -45,6 +46,7 @@ h1 {
     text-transform: initial;
     letter-spacing: 1px;
     color: #006699;
+    text-align: center;
 }
 
 #menu {
@@ -93,6 +95,7 @@ main {
     flex: 1 0 auto;
     color: #333333;
     margin-top: auto;
+    background-color: #C1D9D0;
 }
 
 /* Hero section */
@@ -108,7 +111,8 @@ main {
 /* Overlay for the hero section */
 #hero-overlay {
     position: relative;
-    top: 70px;;
+    top: 70px;
+    ;
     left: 0;
     width: 100%;
     height: 100%;
@@ -138,7 +142,25 @@ main {
 
 /* Benefits Section Styles */
 
+#benefits {
+    text-align: center;
+    padding: 2rem 0;
+}
 
+.benefit {
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 5px solid #ddd;
+    border-radius: 20px;
+    box-shadow: 0 1px 2px rgba(100, 149, 237, 0.3);
+    margin bottom: 20px;
+}
+
+.benefit h3 {
+    color: #006699;
+    margin-bottom: 10px;
+}
 
 /* Footer styles */
 footer {
@@ -197,7 +219,17 @@ footer {
         /* Push main content down to accomodate larger header */
         margin-top: 79px;
     }
+
+    #hero {
+        height: 50vh;
+        background: url("../images/hero.jpg") no-repeat center center/cover;
+        position: relative;
+        display: flex;
+        align-items: center;
+    }
+
 }
+
 
 /* Larger devices (laptops, desktops, 992px and up) */
 @media screen and (min-width: 992px) {
