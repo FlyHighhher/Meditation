@@ -154,6 +154,10 @@ main {
     margin-bottom: 20px;
 }
 
+.benefit ul li {
+    margin-bottom: 10px;
+}
+
 .benefit h3 {
     color: #006699;
     margin-bottom: 10px;
@@ -176,8 +180,6 @@ main {
     list-style-type: none;
     text-align: left;
 }
-
-
 
 /* Footer styles */
 footer {
