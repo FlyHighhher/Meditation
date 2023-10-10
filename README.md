@@ -183,12 +183,12 @@ There is a hero section with a background image. It is intended to grab the user
 #### Welcome Message
 
 The hero section includes a welcome message with a heading and a paragraph of text. The message is displayed over a semi-transparent background.
-![welcome message](welcome-message.png)
+![welcome message](assets/images/welcome-message.png)
 
 #### Benefits Section
 
 The website has a "Benefits" section, which describes the benefits of meditation techniques. Columns are used to display the information.
-![benefits section](benefits-section.png)
+![benefits section](assets/images/benefits-section.png)
 
 #### Techniques Page
 
