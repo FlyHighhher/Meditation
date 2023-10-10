@@ -17,58 +17,58 @@ The primary purpose of the website is to provide meditation resources and inform
 The website design is capped and optimized for different screen widths using media queries to ensure a responsive layout and user experience.
 
 ### Features
-### Navigation Menu
+#### Navigation Menu
 
 The website has a navigation menu in the header with links to different sections, including "Home," "Techniques," and "Resources."
 
-### Header
+#### Header
 
 The header section contains the website's name, "TranquilMind Oasis," and a logo. It also features a navigation toggle button for mobile devices.
 
-### Responsive Design
+#### Responsive Design
 
 The website is designed to be responsive, adapting its layout and content for various screen sizes and devices.
 
-### Hero Section
+#### Hero Section
 
 There is a hero section with a background image. It is intended to grab the user´s attention and set the tone for the website.
 
-### Welcome Message
+#### Welcome Message
 
 The hero section includes a welcome message with a heading and a paragraph of text. The message is displayed over a semi-transparent background.
 
-### Benefits Section
+#### Benefits Section
 
 The website has a "Benefits" section, which describes the benefits of meditation techniques. Columns are used to display the information.
 
-### Techniques Page
+#### Techniques Page
 
 The website includes a "Techniques" page with various technique categories. Each category is presented with a title and description and associated link to the resource.
 
-### Guided Meditation Recordings
+#### Guided Meditation Recordings
 
 The "Resources" page provides guided meditation recordings. Each recording is accompanied by a title, description, and an audio player.
 
-### Contact Information
+#### Contact Information
 
 In the footer section, there is contact information for the website. It includes an email address and a mobile phone number.
 
-### Styling
+#### Styling
 
 The website features a specific color scheme with a predominant use of the colors #006699, #b0e0e6, #C1D9D0, and #F5F5F5.
 
-### Typography
+#### Typography
 
 The website uses the "Nunito" and "Crimson Text" fonts from Google Fonts, indicating a specific typographical style.
 
-### Scrolling Behavior
+#### Scrolling Behavior
 
 The header is set to be fixed, so it remains visible as users scroll down the page.
 
-### Media Queries
+#### Media Queries
 
 The website uses media queries to adjust the layout and styling for different screen sizes, enhancing the user experience on tablets and larger devices.
 
-### Audio Elements
+#### Audio Elements
 
 The website features audio elements with controls for users to play guided meditation recordings.
