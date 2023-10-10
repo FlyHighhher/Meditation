@@ -57,6 +57,7 @@ h1 {
 
 #menu>li {
     margin-bottom: 1em;
+    margin-left: 1rem;
 }
 
 .active {
@@ -189,6 +190,10 @@ main {
     padding: 2rem 0;
 }
 
+#technique-categories h2 {
+    color: #006699;
+}
+
 .technique {
     max-width: 600px;
     margin: 0 auto;
@@ -234,6 +239,12 @@ margin-bottom: 1.5rem;
 
 #guided-meditation h3 {
     color: #006699;
+}
+
+audio {
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 10px;
 }
 
 /* Footer styles */
