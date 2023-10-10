@@ -73,7 +73,15 @@
             strong foundation in mindfulness. Learn to focus on your breath to
             stay present in the moment.
           </p>
-        <a href="" target="_blank">Listen now!</a>
+          <!-- Making sure the audio does not autoplay -->
+          <audio id="audio1" controls autoplay="false">
+            <source
+              src="assets/audio/mindfulness-meditation.mp3"
+              type="audio/mpeg"
+            />
+            <!-- Fallback message -->
+            Your browser does not support the audio element.
+          </audio>
         </div>
         <!-- Guided meditation 2 -->
         <div class="meditation">
@@ -83,13 +91,19 @@
             with this love-kindness meditation. Open your heart to positivity
             and kindness.
           </p>
-          <a href="" target="_blank">Listen now!</a>
+        <audio id="audio1" controls autoplay="false">
+            <source src="assets/audio/love-and-kindness-meditation.m4a" type="audio/mpeg" />
+            Your browser does not support the audio element.
+        </audio>
         </div>
         <!-- Guided meditation 3 -->
         <div class="meditation">
           <h3>Body Scan Meditation</h3>
-          <p>Feeling tense? Feel your body relax as you try this practice</p>
-        <a href="" target="_blank">Listen now!</a>
+          <p>Feeling tense? Feel your body relax as you try this practice.</p>
+        <audio id="audio1" controls autoplay="false">
+            <source src="assets/audio/body-scan-meditation.mp3" type="audio/mpeg" />
+            Your browser does not support the audio element.
+        </audio>
         </div>
       </section>
     </main>
