@@ -145,7 +145,7 @@ The website is now deployed and is at [flyhighhher.github.io/Meditation/] (<http
 
 The inspiration for the website was taken from the [Love Running](https://github.com/Code-Institute-Solutions/readme-template) site. While also the video walkthroughs were also very helpful in creating the initial code.
 
-A helpful site to get definitions and understandings of elements was (<https://www.w3schools.com/html/default.asp>)
+Helpful site for understanding how to use elements (<https://www.w3schools.com/>)
 Another helpful site was (<https://developer.mozilla.org/en-US/>).
 =======
 
