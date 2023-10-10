@@ -181,6 +181,8 @@ main {
     text-align: left;
 }
 
+/* Technique page styling */
+
 /* Technique category styles */
 #technique-categories {
     text-align: center;
@@ -208,6 +210,30 @@ main {
     font-size: 1.1rem;
     line-height: 1.2;
     color: #333;
+}
+
+/* Resources page styles */
+
+/* Guided meditations section */
+
+#guided-meditation {
+    background-color: #C1D9D0;
+    padding: 2rem;
+    text-align: center;
+}
+
+#guided-meditation h2 {
+    color: #006699;
+    font-size: 1.5rem;
+}
+
+#guided-meditation p {
+font-size: 1.1rem;
+margin-bottom: 1.5rem;
+}
+
+#guided-meditation h3 {
+    color: #006699;
 }
 
 /* Footer styles */
