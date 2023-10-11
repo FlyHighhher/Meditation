@@ -4,7 +4,7 @@
 
 TranquilMind Oasis is a website dedicated to meditation.
 
-The website includes benefits gained from meditation, some prevalent technique descriptions, and guided audio meditations.
+The website includes benefits gained from meditation, some prevalent technique descriptions, and guided audio meditations
 
 ## Purpose of the website
 
